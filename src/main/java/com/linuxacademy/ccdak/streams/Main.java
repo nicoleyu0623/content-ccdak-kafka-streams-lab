@@ -13,6 +13,18 @@ import org.apache.kafka.streams.kstream.KTable;
 import org.apache.kafka.streams.kstream.Produced;
 
 public class Main {
+    /**
+     * apples:5
+     * oranges:2
+     * apples:3
+     */
+
+    /**
+     * total_purchases
+     * apples:8
+     * oranges:2
+     */
+
 
     public static void main(String[] args) {
         // Set up the configuration.
